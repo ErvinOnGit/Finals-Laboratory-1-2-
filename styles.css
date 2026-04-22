@@ -1,0 +1,23 @@
+.red {
+display: block;
+width: 200px;
+height: 200px;
+background-color: red;
+}
+.green {
+    display:block;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+.blue {
+    display:block;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+ .willfloatleft {
+    float: left;
+}.willfloatright {
+    float: right;
+}
